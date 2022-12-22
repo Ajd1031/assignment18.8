@@ -1,0 +1,13 @@
+form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 40px;
+}
+
+textarea {
+    height: 250px;
+}
+
+button {
+    width: 75px;
+}
